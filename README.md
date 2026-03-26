@@ -37,7 +37,7 @@ Students looking for useful and affordable places near their campus.
 - Vercel
 
 ## Design
-Add your Figma link here
+https://www.figma.com/design/iKI1rdRq2ZliQk1K8k1Uud/Sans-titre?node-id=0-1&p=f&t=Cgj2PS8tJVouL3vA-0
 
 ## Live Demo
-Add your Vercel link here
+https://studaid.vercel.app/
